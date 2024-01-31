@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="./prework.gif.png" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/mnarni/web102_prework/blob/main/Prework.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiCEcap
